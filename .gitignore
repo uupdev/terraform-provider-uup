@@ -1,0 +1,6 @@
+dist/
+terraform-provider-uup
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
