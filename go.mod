@@ -1,6 +1,6 @@
 module github.com/uupdev/terraform-provider-uup
 
-go 1.25.14
+go 1.25.8
 
 require (
 	github.com/hashicorp/terraform-plugin-framework v1.19.0
